@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Autor: Li4N
 # Uso: ./dnsrecon_script.sh rangos.txt
 
 # Verifica que se proporcionó un argumento
